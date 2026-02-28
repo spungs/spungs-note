@@ -25,7 +25,7 @@ tags:
 
 ### 권장 아키텍처(간단한 플로우)
 
-![](/content/assets/ai/harness-diagram.png)
+![](../assets/ai/harness-diagram.png)
 
 ### 체크리스트(실행 우선순위)
 - 1) 컨텍스트 파일 표준화: 입력/출력 스펙, 예제, 실패 사례 포함
