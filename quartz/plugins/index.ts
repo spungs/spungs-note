@@ -54,3 +54,5 @@ declare module "vfile" {
     relativePath: FilePath
   }
 }
+
+export { MermaidLoader } from "./emitters/mermaidLoader"
