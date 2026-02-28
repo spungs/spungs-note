@@ -25,15 +25,7 @@ tags:
 
 ### 권장 아키텍처(간단한 플로우)
 
-```mermaid
-flowchart TD
-  A[User Request] --> B[Context Files]
-  B --> C[MCP / Tool Connectors]
-  C --> D[Agent Runtime]
-  D --> E[Skill Library]
-  E --> F[Outputs / Actions]
-  D --> G[Monitoring & Recovery]
-```
+![](/content/assets/ai/harness-diagram.png)
 
 ### 체크리스트(실행 우선순위)
 - 1) 컨텍스트 파일 표준화: 입력/출력 스펙, 예제, 실패 사례 포함
