@@ -43,9 +43,9 @@ export const MermaidLoader: QuartzEmitterPlugin = () => {
         ],
       }
     },
+    async *emit(ctx, _content, _resources) {
+      // This emitter only provides client-side externalResources (JS). No files to emit.
+      return;
+    }
   }
 }
-  async *emit(ctx, _content, _resources) {
-    // This emitter only provides client-side externalResources (JS). No files to emit.
-    return;
-  }
