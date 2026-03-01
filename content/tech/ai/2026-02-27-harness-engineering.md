@@ -2,6 +2,7 @@
 title: "하니스 엔지니어링: 컨텍스트를 넘어 전체 환경 설계로"
 date: 2026-02-27
 tags:
+  - tech
   - ai
   - harness
 ---

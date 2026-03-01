@@ -1,7 +1,7 @@
 ---
 title: 반도체
 tags:
-  - investment
+  - companies
   - semiconductor
 ---
 

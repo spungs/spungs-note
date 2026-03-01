@@ -2,7 +2,7 @@
 title: "(삼성전자) 단기고점?분할매도?"
 date: 2026-03-02
 tags:
-  - investment
+  - companies
   - semiconductor
   - youtube
   - 삼성전자

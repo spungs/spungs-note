@@ -2,8 +2,10 @@
 title: '일론머스크의 자신감 "테슬라 주식 팔지마" / 모델 Y 호주에서 최고 자동차 선정 등'
 date: 2026-02-27
 tags:
-  - ai
+  - companies
+  - mobility
   - youtube
+  - tesla
 ---
 
 ## 핵심 요약
