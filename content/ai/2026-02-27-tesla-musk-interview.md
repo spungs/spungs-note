@@ -24,15 +24,7 @@ tags:
 
 ## 시각 자료(다이어그램)
 
-```mermaid
-flowchart LR
-  A[테슬라 - 제품 로드맵] --> B[FSD — 자율주행]
-  A --> C[옵티머스]
-  A --> D[사이버캡/세미]
-  B --> E[유럽 승인(예정)]
-  E --> F[도시교통 도입/정책 논의]
-  F --> G[안전·거버넌스 검토]
-```
+![tesla-diagram](/content/assets/ai/tesla-diagram.svg)
 
 ## 결론 / 인사이트
 
