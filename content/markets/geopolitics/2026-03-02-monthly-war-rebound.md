@@ -3,6 +3,7 @@ title: "(월간시황) 전쟁후의 반등은 며칠후?"
 date: 2026-03-02
 tags:
   - markets
+  - geopolitics
   - monthly
   - youtube
   - 중동정세

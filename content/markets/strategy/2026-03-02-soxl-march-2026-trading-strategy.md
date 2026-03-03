@@ -2,7 +2,7 @@
 title: "SOXL 26년 3월 돈복사 전략. 매도후 55불부터 새로 합니다. 수량 반드시 반으로 줄이세요."
 date: 2026-03-02
 tags:
-  - investing
+  - markets
   - strategy
   - youtube
   - SOXL

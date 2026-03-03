@@ -2,6 +2,7 @@
 title: "(삼성전자) 단기고점?분할매도?"
 date: 2026-03-02
 tags:
+  - markets
   - companies
   - semiconductor
   - youtube
