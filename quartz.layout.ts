@@ -38,7 +38,17 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          const da = new Date((a.data as any)?.date ?? 0).getTime()
+          const db = new Date((b.data as any)?.date ?? 0).getTime()
+          if (da && db && da !== db) return db - da
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +72,17 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          const da = new Date((a.data as any)?.date ?? 0).getTime()
+          const db = new Date((b.data as any)?.date ?? 0).getTime()
+          if (da && db && da !== db) return db - da
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [],
 }
