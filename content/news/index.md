@@ -10,7 +10,7 @@ tags:
 
 ## 분류
 
-- [[markets|📊 markets]] — 거시·이벤트·전략
-- [[companies|🏢 companies]] — 기업 이슈
-- [[geopolitics|🌍 geopolitics]] — 지정학
-- [[tech|💻 tech]] — AI·인프라·반도체
+- [[📊-markets|📊 markets]] — 거시·이벤트·전략
+- [[🏢-companies|🏢 companies]] — 기업 이슈
+- [[🌍-geopolitics|🌍 geopolitics]] — 지정학
+- [[💻-tech|💻 tech]] — AI·인프라·반도체

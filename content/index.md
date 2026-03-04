@@ -7,10 +7,10 @@ tags:
 
 ## 📚 카테고리
 
-- [[news/markets|📊 news/markets]] — 거시·이벤트·전략
-- [[news/companies|🏢 news/companies]] — 기업 이슈
-- [[news/geopolitics|🌍 news/geopolitics]] — 지정학
-- [[news/tech|💻 news/tech]] — AI·인프라·반도체
+- [[news/📊-markets|📊 news/markets]] — 거시·이벤트·전략
+- [[news/🏢-companies|🏢 news/companies]] — 기업 이슈
+- [[news/🌍-geopolitics|🌍 news/geopolitics]] — 지정학
+- [[news/💻-tech|💻 news/tech]] — AI·인프라·반도체
 - [[cook|🍳 cook]] — 레시피·요리 팁
 
 ---
