@@ -1,6 +1,7 @@
 ---
 title: "NVIDIA, HBM 버리고 택한 이것... GTC 2026 공개할 AI 추론칩 신의 한수 | 삼성 파운드리 부활로 보는 이유"
 date: 2026-03-02
+video_date: 2026-03-01
 tags:
   - markets
   - companies

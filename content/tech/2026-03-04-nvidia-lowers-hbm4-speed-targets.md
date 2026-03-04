@@ -1,6 +1,7 @@
 ---
 title: "NVIDIA HBM4 속도 하향 결정... 삼성, SK하이닉스  문제일까? | AI 메모리 양산의 현실 | HBM4 22TB/s 목표 하향"
 date: 2026-03-04
+video_date: 2026-03-04
 tags:
   - tech
   - youtube

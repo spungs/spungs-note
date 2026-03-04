@@ -1,6 +1,7 @@
 ---
 title: "(시황분석) 이미 알고 있는 전쟁은 큰 악재가 아니다"
 date: 2026-03-04
+video_date: 2026-03-02
 tags:
   - tech
   - youtube
