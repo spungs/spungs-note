@@ -3,7 +3,9 @@ title: "(관심종목) 왜 엔비디아는 빛에 투자하는가?"
 date: 2026-03-04
 video_date: 2026-03-04
 tags:
+  - companies
   - tech
+  - nvidia
   - youtube
 ---
 
