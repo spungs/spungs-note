@@ -1,10 +1,12 @@
 ---
 title: "4만 원대로 일주일 반찬｜국산 식재료 온가족 밑반찬, 밀프렙｜신학기에도 그대로 쓰는 냉동반찬"
 date: 2026-03-05
+category: cook
 video_date: 2026-02-27
 tags:
-  - news/💻-tech
+  - news/🍳-cook
   - youtube
+  - cook
 ---
 
 ## 핵심 요약
