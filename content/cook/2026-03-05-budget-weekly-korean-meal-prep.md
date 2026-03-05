@@ -4,7 +4,6 @@ date: 2026-03-05
 category: cook
 video_date: 2026-02-27
 tags:
-  - news/🍳-cook
   - youtube
   - cook
 ---
