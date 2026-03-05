@@ -1,9 +1,7 @@
 ---
-title: 테크
-tags:
-  - tech
+title: "💻 테크"
+description: "Category index for Tech"
 ---
 
-# 💻 테크
+💻 테크
 
-IT/AI 기술 트렌드와 인프라를 정리합니다.
