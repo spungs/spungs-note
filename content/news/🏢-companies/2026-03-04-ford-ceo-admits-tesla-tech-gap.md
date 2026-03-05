@@ -3,7 +3,7 @@ title: "포드 CEO의 충격 고백 \"테슬라가 옳았다!\" 26조 날리고 
 date: 2026-03-04
 video_date: 2026-03-04
 tags:
-  - tech
+  - news/🏢-companies
   - youtube
 ---
 

@@ -3,7 +3,7 @@ title: "'스타링크 모바일' 세계를 하나로 연결한다. MWC 26 키노
 date: 2026-03-03
 video_date: 2026-03-03
 tags:
-  - tech
+  - news/🏢-companies
   - youtube
 ---
 

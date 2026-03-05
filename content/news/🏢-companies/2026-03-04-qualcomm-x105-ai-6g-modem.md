@@ -3,7 +3,7 @@ title: "드디어 6G 전쟁인가...  AI 시대 통신칩 중요해진다 | 퀄�
 date: 2026-03-04
 video_date: 2026-03-03
 tags:
-  - tech
+  - news/🏢-companies
   - youtube
 ---
 
