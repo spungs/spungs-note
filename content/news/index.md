@@ -1,4 +1,8 @@
 ---
+title: "📰 뉴스"
+---
+
+---
 title: 뉴스
 tags:
   - news

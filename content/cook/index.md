@@ -1,4 +1,8 @@
 ---
+title: "🍳 Cook"
+---
+
+---
 title: Cook
 tags:
   - cook

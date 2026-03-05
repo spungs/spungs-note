@@ -1,5 +1,9 @@
 ---
 title: "💻 테크"
+---
+
+---
+title: "💻 테크"
 description: "Category index for Tech"
 ---
 

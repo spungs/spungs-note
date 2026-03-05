@@ -1,4 +1,8 @@
 ---
+title: "🌍 지정학"
+---
+
+---
 title: 지정학
 tags:
   - markets
