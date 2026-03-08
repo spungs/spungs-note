@@ -29,7 +29,9 @@ tags:
 | <strong>성장성</strong> | 시장 점유율 70% 이상 | 매출 77% 성장 |
 | <strong>수익성/환원</strong> | 주주 환원 70% 이상 | 조정 EBITDA 마진 54% |
 
-![서클 분기 매출 성장 추이](https://raw.githubusercontent.com/spungs/spungs-note/v4/static/assets/markets-circle-revenue-2024-2025.svg)
+<div style="text-align:center">
+  <img src="https://raw.githubusercontent.com/spungs/spungs-note/v4/static/assets/markets-circle-revenue-2024-2025.svg" alt="서클 분기 매출 성장 추이" style="max-width:90%;width:600px;height:auto;border-radius:6px;" />
+</div>
 
 (데이터: 영상 발췌 — 2024.4Q: 435, 2025.4Q: 770)
 ### GE 에어로스페이스: 하늘을 지배하는 독점적 해자
