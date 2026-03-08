@@ -37,4 +37,4 @@ tags:
 
 > 지금 자신의 삶에서 가장 중요한 문제는 무엇입니까? 그것을 해결하면 무엇이 달라질까요?
 
-> 📌 **출처:** [행복 관련 강연 영상](https://youtu.be/yI1maCcziyk?si=cuWSQIL4oMhlv43V)
+> 📌 **출처:** [팔란티어 관점으로 분석한 돈과 행복](https://youtu.be/yI1maCcziyk?si=cuWSQIL4oMhlv43V)
