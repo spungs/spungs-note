@@ -1,5 +1,5 @@
 ---
-title: "(관심종목) 자금이 흐르��는 업종과 종목은?"
+title: "(관심종목) 자금이 흐르는 업종과 종목은?"
 date: 2026-03-05
 video_date: 2026-03-05
 category: markets
