@@ -16,13 +16,14 @@
   <text x='30' y='200' class='label'>500</text>
   <text x='30' y='340' class='label'>0</text>
   <!-- line points scaled: 435 -> y ~ 250, 770 -> y ~ 120 -->
-  <polyline points='70,250 400,120' class='line' />
-  <!-- points -->
-  <circle cx='70' cy='250' r='5' fill='#ff7f50'/>
-  <circle cx='400' cy='120' r='5' fill='#ff7f50'/>
-  <!-- value labels -->
-  <text x='80' y='245' class='label'>435</text>
-  <text x='410' y='115' class='label'>770</text>
+  <!-- add left padding by shifting x positions right by 20 -->
+  <polyline points='90,250 420,120' class='line' />
+  <!-- points (shifted) -->
+  <circle cx='90' cy='250' r='5' fill='#ff7f50'/>
+  <circle cx='420' cy='120' r='5' fill='#ff7f50'/>
+  <!-- value labels (shifted and slightly offset up to avoid overlap) -->
+  <text x='100' y='240' class='label' style='font-weight:600'>435</text>
+  <text x='430' y='105' class='label' style='font-weight:600'>770</text>
   <!-- title -->
   <text x='100' y='30' class='label' style='font-size:16px;font-weight:600'>서클(Circle) 분기 매출 성장 추이 (백만 달러)</text>
 </svg>
