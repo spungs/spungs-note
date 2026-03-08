@@ -10,9 +10,9 @@
   <line x1='80' y1='420' x2='920' y2='420' class='axis'/>
   <line x1='80' y1='420' x2='80' y2='60' class='axis'/>
   <!-- ticks & labels -->
-  <text x='90' y='445' class='label'>2024.4Q</text>
-  <text x='500' y='445' class='label'>2025.4Q</text>
-  <text x='900' y='445' class='label'> </text>
+  <!-- x-axis labels aligned with points -->
+  <text x='300' y='455' class='label' text-anchor='middle'>2024.4Q</text>
+  <text x='500' y='455' class='label' text-anchor='middle'>2025.4Q</text>
   <text x='40' y='90' class='label'>1000</text>
   <text x='40' y='255' class='label'>500</text>
   <text x='40' y='420' class='label'>0</text>
