@@ -1,0 +1,28 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='400' viewBox='0 0 800 400'>
+  <rect width='100%' height='100%' fill='#ffffff'/>
+  <style>
+    .axis { stroke: #ccc; stroke-width:1 }
+    .line { fill:none; stroke:#ff7f50; stroke-width:3 }
+    .label { font-family: Arial, sans-serif; fill:#222; font-size:14px }
+  </style>
+  <!-- axes -->
+  <line x1='70' y1='340' x2='730' y2='340' class='axis'/>
+  <line x1='70' y1='340' x2='70' y2='40' class='axis'/>
+  <!-- ticks & labels -->
+  <text x='70' y='360' class='label'>2024.4Q</text>
+  <text x='400' y='360' class='label'>2025.4Q</text>
+  <text x='720' y='360' class='label'> </text>
+  <text x='30' y='60' class='label'>1000</text>
+  <text x='30' y='200' class='label'>500</text>
+  <text x='30' y='340' class='label'>0</text>
+  <!-- line points scaled: 435 -> y ~ 250, 770 -> y ~ 120 -->
+  <polyline points='70,250 400,120' class='line' />
+  <!-- points -->
+  <circle cx='70' cy='250' r='5' fill='#ff7f50'/>
+  <circle cx='400' cy='120' r='5' fill='#ff7f50'/>
+  <!-- value labels -->
+  <text x='80' y='245' class='label'>435</text>
+  <text x='410' y='115' class='label'>770</text>
+  <!-- title -->
+  <text x='100' y='30' class='label' style='font-size:16px;font-weight:600'>서클(Circle) 분기 매출 성장 추이 (백만 달러)</text>
+</svg>
