@@ -12,18 +12,18 @@
   <text x='70' y='360' class='label'>2024.4Q</text>
   <text x='400' y='360' class='label'>2025.4Q</text>
   <text x='720' y='360' class='label'> </text>
-  <text x='30' y='60' class='label'>1000</text>
-  <text x='30' y='200' class='label'>500</text>
+  <text x='30' y='60' class='label'>850</text>
+  <text x='30' y='200' class='label'>425</text>
   <text x='30' y='340' class='label'>0</text>
-  <!-- line points scaled: 435 -> y ~ 250, 770 -> y ~ 120 -->
-  <!-- add left padding by shifting x positions right by 20 -->
-  <polyline points='90,250 420,120' class='line' />
+  <!-- line points scaled to max=850: y = 340 - (value/850)*300 -->
+  <!-- computed: 435 -> y ~186 ; 770 -> y ~68 -->
+  <polyline points='90,186 420,68' class='line' />
   <!-- points (shifted) -->
-  <circle cx='90' cy='250' r='5' fill='#ff7f50'/>
-  <circle cx='420' cy='120' r='5' fill='#ff7f50'/>
+  <circle cx='90' cy='186' r='5' fill='#ff7f50'/>
+  <circle cx='420' cy='68' r='5' fill='#ff7f50'/>
   <!-- value labels (shifted and slightly offset up to avoid overlap) -->
-  <text x='100' y='240' class='label' style='font-weight:600'>435</text>
-  <text x='430' y='105' class='label' style='font-weight:600'>770</text>
+  <text x='100' y='176' class='label' style='font-weight:600'>435</text>
+  <text x='430' y='58' class='label' style='font-weight:600'>770</text>
   <!-- title -->
   <text x='100' y='30' class='label' style='font-size:16px;font-weight:600'>서클(Circle) 분기 매출 성장 추이 (백만 달러)</text>
 </svg>
