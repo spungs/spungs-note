@@ -6,6 +6,7 @@ tags:
   - markets
   - companies
   - mobility
+  - youtube
   - tesla
 ---
 ## 핵심 요약
@@ -32,5 +33,5 @@ tags:
 세미 공장 내부 공개는 ‘양산이 진짜로 다가왔다’는 신호야. 테슬라의 모빌리티/자율주행 내러티브는 결국 생산·출고로 증명되니까, 이후엔 **실제 생산량/납기/고객사 확대** 같은 숫자들이 따라오는지 확인하는 게 핵심이야.
 
 
-> 📌 출처: [테슬라의 기대주 SEMI 출격 임박! 공장 내부 공개](https://teslanorth.com/2026/03/05/tesla-offers-first-glimpse-inside-massive-semi-factory-in-nevada/)
+> 📌 출처: [테슬라의 기대주 SEMI 출격 임박! 공장 내부 공개](https://youtu.be/nr0i7gt9OYs?si=qg0iadfmlz107YPQ)
 
