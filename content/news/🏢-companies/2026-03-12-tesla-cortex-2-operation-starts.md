@@ -29,4 +29,4 @@ AI 제품의 성능은 데이터·모델·연산의 곱으로 결정되는 경�
 - <strong>Cortex 2의 포인트는 ‘규모’보다 ‘가동(운영)으로의 전환’</strong>이고, 이게 확인될수록 테슬라의 AI/로봇 로드맵 신뢰도가 올라간다.
 - 다만, 인프라 뉴스는 과대해석되기 쉬우니 “실제 제품 지표(FSD/옵티머스 데모·릴리즈 속도)”로 교차검증하는 게 안전하다.
 
-> 📌 <strong>출처:</strong> [YouTube 영상](https://youtu.be/015gC9p_A0A?si=EgY5kmZG0Haz8X_l)
+> 📌 <strong>출처:</strong> [테슬라의 핵심시설 다음 달부터 가동 시작](https://youtu.be/015gC9p_A0A?si=EgY5kmZG0Haz8X_l)

@@ -30,4 +30,4 @@ GTC는 단순 신제품 발표 이벤트라기보다, AI 컴퓨팅 스택(칩–
 - 단기적으로는 이벤트 전후 변동성이 커질 수 있지만, 진짜 포인트는 <strong>병목(메모리/패키징/네트워킹)을 어떻게 푸는지</strong>에 달려 있다.
 - 발표가 공급망/스택 구조를 바꾸는 신호라면, 엔비디아뿐 아니라 반도체 밸류체인(메모리/패키징/장비) 전반으로 파급될 수 있다.
 
-> 📌 <strong>출처:</strong> [YouTube 영상](https://youtu.be/c6pJ4GuqOiM?si=s--Egp9a1gLgurPc)
+> 📌 <strong>출처:</strong> [미국장과 반도체..GTC 이후 "변곡점"이 오는 이유](https://youtu.be/c6pJ4GuqOiM?si=s--Egp9a1gLgurPc)
