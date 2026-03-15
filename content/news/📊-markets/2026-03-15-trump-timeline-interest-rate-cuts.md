@@ -1,6 +1,7 @@
 ---
 title: "(시황분석) 트럼프가 생각하는 타임라인은? 금리를 내리기 위해서 트럼프는 무엇을 하기를 원하는가?"
 date: 2026-03-15
+canonical: https://spungs.github.io/spungs-note/news/2026-03-15-trump-timeline-interest-rate-cuts
 tags:
   - news
   - us-stock
@@ -45,4 +46,5 @@ tags:
 
 ## 출처
 
-- YouTube: https://youtu.be/sDsbT0-ILs0
+- Post: https://spungs.github.io/spungs-note/news/2026-03-15-trump-timeline-interest-rate-cuts
+- YouTube: https://youtu.be/sDsbT0-ILs0?si=sOHtBAX4d0kT8fwv
